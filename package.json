@@ -1,0 +1,8 @@
+{
+  "name": "uos-mf-db-schemas",
+  "version": "0.0.1",
+  "scripts": {},
+  "dependencies": {
+    "mongoose": "^4.12.5"
+  }
+}
